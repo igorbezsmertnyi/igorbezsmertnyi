@@ -2,10 +2,11 @@
 
 My name is Igor Bezsmertnyi and I'm Fullstack Developer.
 
-🔭 I’m currently working on [Mudita](https://mudita.com/)
-🌱 I’m currently learning Python and develop smart robot using Raspberry PI
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/igor-bezsmertnyi-529522114/)
+- 🔭 I’m currently working on [Mudita](https://mudita.com/)
+- 🌱 I’m currently learning Python and develop smart robot using Raspberry PI
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/igor-bezsmertnyi-529522114/)
 
+### 🧮 My weekly development breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
