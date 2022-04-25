@@ -8,6 +8,11 @@ My name is Igor Bezsmertnyi and I'm Fullstack Developer.
 
 ### 🧮 My weekly development breakdown
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!--
