@@ -10,10 +10,10 @@ My name is Igor Bezsmertnyi and I'm Fullstack Developer.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   6 hrs 12 mins   ██████████████████▒░░░░░░   73.52 %
-JSON         1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
-Markdown     47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+TypeScript   5 hrs 56 mins   ██████████████████████░░░   87.66 %
+JSON         47 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
